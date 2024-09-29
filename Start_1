@@ -1,0 +1,7 @@
+echo "# Python-simulates-the-process-of-Make-A-wish-studio-games" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Chencharl/Python-simulates-the-process-of-Make-A-wish-studio-games.git
+git push -u origin main
